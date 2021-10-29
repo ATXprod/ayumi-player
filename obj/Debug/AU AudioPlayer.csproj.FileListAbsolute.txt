@@ -1,0 +1,10 @@
+G:\Coding\Ayumi\AU AudioPlayer\AU AudioPlayer\AU AudioPlayer\bin\Debug\AU AudioPlayer.exe.config
+G:\Coding\Ayumi\AU AudioPlayer\AU AudioPlayer\AU AudioPlayer\bin\Debug\AU AudioPlayer.exe
+G:\Coding\Ayumi\AU AudioPlayer\AU AudioPlayer\AU AudioPlayer\bin\Debug\AU AudioPlayer.pdb
+G:\Coding\Ayumi\AU AudioPlayer\AU AudioPlayer\AU AudioPlayer\obj\Debug\AU AudioPlayer.csproj.AssemblyReference.cache
+G:\Coding\Ayumi\AU AudioPlayer\AU AudioPlayer\AU AudioPlayer\obj\Debug\AU_AudioPlayer.Properties.Resources.resources
+G:\Coding\Ayumi\AU AudioPlayer\AU AudioPlayer\AU AudioPlayer\obj\Debug\AU AudioPlayer.csproj.GenerateResource.cache
+G:\Coding\Ayumi\AU AudioPlayer\AU AudioPlayer\AU AudioPlayer\obj\Debug\AU AudioPlayer.csproj.CoreCompileInputs.cache
+G:\Coding\Ayumi\AU AudioPlayer\AU AudioPlayer\AU AudioPlayer\obj\Debug\AU AudioPlayer.exe
+G:\Coding\Ayumi\AU AudioPlayer\AU AudioPlayer\AU AudioPlayer\obj\Debug\AU AudioPlayer.pdb
+G:\Coding\Ayumi\AU AudioPlayer\AU AudioPlayer\AU AudioPlayer\obj\Debug\AU_AudioPlayer.MainWindow.resources
